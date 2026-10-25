@@ -1,0 +1,3 @@
+Model,ROC-AUC,Precision,Recall,Threshold,TN,FP,FN,TP
+"Logistic regression (class_weight=balanced)",0.841298,0.447820,0.906417,0.35,617,418,35,339
+"Gradient boosting (HistGradientBoostingClassifier, balanced sample weights)",0.838070,0.466763,0.863636,0.35,666,369,51,323
